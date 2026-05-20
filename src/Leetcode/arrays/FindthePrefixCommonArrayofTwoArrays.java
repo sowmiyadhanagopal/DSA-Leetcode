@@ -13,7 +13,7 @@ public class FindthePrefixCommonArrayofTwoArrays {
                 if(freq[A[i]]==2)
                 {
                     c++;
-                }a
+                }
                 freq[B[i]]++;
                 if(freq[B[i]]==2)
                 {
