@@ -1,4 +1,4 @@
-package Leetcode.arrays;
+package Leetcode.strings;
 
 public class JumpGameVII {
 
